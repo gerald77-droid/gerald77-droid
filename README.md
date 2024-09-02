@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm <span style="color:black">[Your Name]</span>!
+### 👋 Hi there, I'm <span style="color:black">Gerald </span>!
 
 I'm a Python developer with a passion for data analysis, web development, and game design. My skills and interests include:
 
