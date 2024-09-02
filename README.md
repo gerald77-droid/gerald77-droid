@@ -25,4 +25,4 @@ I'm a Python developer with a passion for data analysis, web development, and ga
 I'm always open to collaboration on innovative projects that combine data analysis, software development, and creative design. If you're looking for a partner in a unique web app, data tool, or game development project, let's connect!
 
 ### 📫 <span style="color:black">How to Reach Me</span>
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:geraldwangai994@gmail.com)
